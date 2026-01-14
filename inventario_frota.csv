@@ -1,4 +1,4 @@
-Marca,Preco,Tipo,Autonomia
-Ferrari,225000.0,Convencional,N/A
-Pagani,4108500.0,Convencional,N/A
-Tesla,45000.0,Elétrico,410
+Marca,Modelo,Ano,Preco,Tipo,Autonomia
+BMW,M3 CSL,2021,135000.0,Convencional,N/A
+Ferrari,458 speciale,2015,410000.0,Convencional,N/A
+Tesla,Y,2021,60000.0,Elétrico,410
